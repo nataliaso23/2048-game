@@ -1,4 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Implementação completa do jogo 2048 com movimentação via teclado, fusão de células, geração de novos blocos, detecção de vitória e game over, sistema de avaliação, e botão de reinício funcional.
+
+
+  [LINK PROJETO](nataliaso23.github.io/2048-game/)
+  
+  [LINK DEMONSTRAÇÃO](https://play2048.co/)
